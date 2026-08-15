@@ -14,3 +14,8 @@
 • 理解温度 / Top-p / Top-K 采样的区别
 • pip install tiktoken 统计任意文本的 Token 数
 • 对比不同模型的 Context Window 长度
+
+### 8.15
+了解 GPT-4o / Qwen2.5 / DeepSeek-V3 / LLaMA4 的核心差异
+• 读 DeepSeek-V3 技术报告（重点 MoE 稀疏激活）
+• 整理一张"主流模型横向对比表"
