@@ -24,3 +24,8 @@
 结合 CV 底子，了解 GPT-4o 视觉 / Qwen-VL / LLaVA
 • 理解"视觉编码器 + LLM"的经典架构
 • 跑通一个多模态 LLM API 调用（识图 + 问答）
+
+### 8.17
+用 API Key 跑通第一次 LLM 调用
+练习不同参数（temperature / max_tokens / top_p）
+整理 W1 学习笔记，画 LLM 知识 MindMap
