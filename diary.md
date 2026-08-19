@@ -29,3 +29,8 @@
 用 API Key 跑通第一次 LLM 调用
 练习不同参数（temperature / max_tokens / top_p）
 整理 W1 学习笔记，画 LLM 知识 MindMap
+
+### 8.19
+读 LangGPT 知识库（feishu.langgpt.ai）理解框架
+• 用 LangGPT 框架写第 1 套结构化 Prompt 模板
+• 对比"普通 Prompt vs 结构化 Prompt"的输出效果
