@@ -32,5 +32,10 @@
 
 ### 8.19
 读 LangGPT 知识库（feishu.langgpt.ai）理解框架
-• 用 LangGPT 框架写第 1 套结构化 Prompt 模板
-• 对比"普通 Prompt vs 结构化 Prompt"的输出效果
+ 用 LangGPT 框架写第 1 套结构化 Prompt 模板
+对比"普通 Prompt vs 结构化 Prompt"的输出效果
+
+### 8.20
+看吴恩达 Prompt Engineering 短课（deeplearning.ai）
+分别写 Few-shot / Zero-shot / Chain-of-Thought 3 种 Prompt
+对比输出质量，写实验报告
