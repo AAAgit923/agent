@@ -39,3 +39,8 @@
 看吴恩达 Prompt Engineering 短课（deeplearning.ai）
 分别写 Few-shot / Zero-shot / Chain-of-Thought 3 种 Prompt
 对比输出质量，写实验报告
+
+### 8.21
+读 Anthropic 官方 Prompt 指南（anthropic.com/learn）
+理解 System Prompt vs User Prompt 的分工
+写一个"专业角色"System Prompt（角色定义/行为边界/输出规范）
