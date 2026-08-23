@@ -49,3 +49,5 @@
 理解 JSON Mode 和 Function Calling 格式的区别
 写代码让 LLM 输出结构化 JSON（如提取：人名/日期/事件）
 写第 2 套结构化 Prompt 模板（带 JSON Schema 约束）
+
+### 8.23
