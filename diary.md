@@ -51,3 +51,4 @@
 写第 2 套结构化 Prompt 模板（带 JSON Schema 约束）
 
 ### 8.23
+a、写第 3 套结构化 Prompt 模板（带 JSON Schema 约束）
