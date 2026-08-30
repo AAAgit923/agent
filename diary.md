@@ -55,3 +55,5 @@ a、写第 3 套结构化 Prompt 模板（带 JSON Schema 约束）
 写第 3 套结构化 Prompt 模板
 设计 Prompt A/B 测试：同一任务，不同 Prompt，对比效果
 总结"好 Prompt 的 5 条黄金法则"
+
+### 8.30
